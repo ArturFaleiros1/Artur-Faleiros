@@ -5,7 +5,7 @@
 
 Estou focado em aprender a linguagem de programação Python!
 
-- 🌱 Estudando no momento **[Python]*
+- 🐍  Estudando no momento **Python**
 
 ---
 
